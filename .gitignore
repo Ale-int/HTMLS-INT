@@ -1,5 +1,5 @@
 # Object file
-*.o
+sensible.txt
 
 # Ada Library Information
-*.ali
+carpeta/
