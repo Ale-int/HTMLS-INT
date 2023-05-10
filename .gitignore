@@ -1,5 +1,8 @@
-# Object file
-*.o
+# Archivos
 
-# Ada Library Information
-*.ali
+# Librerias
+
+# Archivos sensibles
+sensible.txt
+
+
